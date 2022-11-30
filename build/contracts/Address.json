@@ -8275,7 +8275,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.11",
-  "updatedAt": "2022-11-26T20:21:01.770Z",
+  "updatedAt": "2022-11-30T12:11:13.186Z",
   "devdoc": {
     "details": "Collection of functions related to the address type",
     "methods": {}

@@ -413,7 +413,7 @@
         "id": 4969,
         "nodeType": "ImportDirective",
         "scope": 5922,
-        "sourceUnit": 6478,
+        "sourceUnit": 6545,
         "src": "87:33:17",
         "symbolAliases": [],
         "unitAlias": ""
@@ -586,7 +586,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+              "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
               "typeString": "mapping(address => contract IExerciceSolution)"
             },
             "typeName": {
@@ -604,7 +604,7 @@
               "nodeType": "Mapping",
               "src": "293:37:17",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                 "typeString": "mapping(address => contract IExerciceSolution)"
               },
               "valueType": {
@@ -612,10 +612,10 @@
                 "id": 4983,
                 "name": "IExerciceSolution",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 6477,
+                "referencedDeclaration": 6544,
                 "src": "312:17:17",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                  "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                   "typeString": "contract IExerciceSolution"
                 }
               }
@@ -1823,7 +1823,7 @@
                           "referencedDeclaration": 4985,
                           "src": "1388:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -1864,7 +1864,7 @@
                         "nodeType": "IndexAccess",
                         "src": "1388:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -2362,7 +2362,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "1649:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -2403,7 +2403,7 @@
                               "nodeType": "IndexAccess",
                               "src": "1649:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -2623,7 +2623,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "1753:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -2664,7 +2664,7 @@
                               "nodeType": "IndexAccess",
                               "src": "1753:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -2988,7 +2988,7 @@
                           "referencedDeclaration": 4985,
                           "src": "1908:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -3029,7 +3029,7 @@
                         "nodeType": "IndexAccess",
                         "src": "1908:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -3040,7 +3040,7 @@
                       "lValueRequested": false,
                       "memberName": "declareAnimalWithParents",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6432,
+                      "referencedDeclaration": 6499,
                       "src": "1908:60:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$_t_uint256_$_t_bool_$_t_string_memory_ptr_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -3115,7 +3115,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "2067:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -3156,7 +3156,7 @@
                               "nodeType": "IndexAccess",
                               "src": "2067:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -3419,7 +3419,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "2201:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -3460,7 +3460,7 @@
                               "nodeType": "IndexAccess",
                               "src": "2201:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -3767,7 +3767,7 @@
                           "referencedDeclaration": 4985,
                           "src": "2427:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -3808,7 +3808,7 @@
                         "nodeType": "IndexAccess",
                         "src": "2427:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -3819,7 +3819,7 @@
                       "lValueRequested": false,
                       "memberName": "getAnimalCharacteristics",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6375,
+                      "referencedDeclaration": 6442,
                       "src": "2427:60:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_string_memory_ptr_$_t_bool_$_t_uint256_$_t_uint256_$",
@@ -4318,7 +4318,7 @@
                           "referencedDeclaration": 4985,
                           "src": "2692:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -4359,7 +4359,7 @@
                         "nodeType": "IndexAccess",
                         "src": "2692:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -4370,7 +4370,7 @@
                       "lValueRequested": false,
                       "memberName": "getParents",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6441,
+                      "referencedDeclaration": 6508,
                       "src": "2692:46:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_uint256_$_t_uint256_$",
@@ -5186,7 +5186,7 @@
                           "referencedDeclaration": 4985,
                           "src": "3234:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -5227,7 +5227,7 @@
                         "nodeType": "IndexAccess",
                         "src": "3234:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -5238,7 +5238,7 @@
                       "lValueRequested": false,
                       "memberName": "tokenOfOwnerByIndex",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6389,
+                      "referencedDeclaration": 6456,
                       "src": "3234:55:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_view$_t_address_$_t_uint256_$returns$_t_uint256_$",
@@ -5313,7 +5313,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "3377:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -5354,7 +5354,7 @@
                               "nodeType": "IndexAccess",
                               "src": "3377:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -5365,7 +5365,7 @@
                             "lValueRequested": false,
                             "memberName": "canReproduce",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 6448,
+                            "referencedDeclaration": 6515,
                             "src": "3377:48:17",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_bool_$",
@@ -5505,7 +5505,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "3503:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -5546,7 +5546,7 @@
                               "nodeType": "IndexAccess",
                               "src": "3503:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -5557,7 +5557,7 @@
                             "lValueRequested": false,
                             "memberName": "reproductionPrice",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 6455,
+                            "referencedDeclaration": 6522,
                             "src": "3503:53:17",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_view$_t_uint256_$returns$_t_uint256_$",
@@ -5726,7 +5726,7 @@
                           "referencedDeclaration": 4985,
                           "src": "3668:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -5767,7 +5767,7 @@
                         "nodeType": "IndexAccess",
                         "src": "3668:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -5778,7 +5778,7 @@
                       "lValueRequested": false,
                       "memberName": "offerForReproduction",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6464,
+                      "referencedDeclaration": 6531,
                       "src": "3668:56:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -5843,7 +5843,7 @@
                               "referencedDeclaration": 4985,
                               "src": "3817:23:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -5884,7 +5884,7 @@
                             "nodeType": "IndexAccess",
                             "src": "3817:35:17",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                               "typeString": "contract IExerciceSolution"
                             }
                           },
@@ -5895,7 +5895,7 @@
                           "lValueRequested": false,
                           "memberName": "canReproduce",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 6448,
+                          "referencedDeclaration": 6515,
                           "src": "3817:48:17",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_bool_$",
@@ -6030,7 +6030,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "3929:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -6071,7 +6071,7 @@
                               "nodeType": "IndexAccess",
                               "src": "3929:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -6082,7 +6082,7 @@
                             "lValueRequested": false,
                             "memberName": "reproductionPrice",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 6455,
+                            "referencedDeclaration": 6522,
                             "src": "3929:53:17",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_view$_t_uint256_$returns$_t_uint256_$",
@@ -6300,7 +6300,7 @@
                           "referencedDeclaration": 4985,
                           "src": "4173:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -6341,7 +6341,7 @@
                         "nodeType": "IndexAccess",
                         "src": "4173:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -6352,7 +6352,7 @@
                       "lValueRequested": false,
                       "memberName": "tokenOfOwnerByIndex",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6389,
+                      "referencedDeclaration": 6456,
                       "src": "4173:55:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_view$_t_address_$_t_uint256_$returns$_t_uint256_$",
@@ -6622,7 +6622,7 @@
                           "referencedDeclaration": 4985,
                           "src": "4295:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -6663,7 +6663,7 @@
                         "nodeType": "IndexAccess",
                         "src": "4295:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -6674,7 +6674,7 @@
                       "lValueRequested": false,
                       "memberName": "offerForReproduction",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6464,
+                      "referencedDeclaration": 6531,
                       "src": "4295:56:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -7222,7 +7222,7 @@
                               "referencedDeclaration": 4985,
                               "src": "4989:23:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -7263,7 +7263,7 @@
                             "nodeType": "IndexAccess",
                             "src": "4989:35:17",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                               "typeString": "contract IExerciceSolution"
                             }
                           },
@@ -7274,7 +7274,7 @@
                           "lValueRequested": false,
                           "memberName": "canReproduce",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 6448,
+                          "referencedDeclaration": 6515,
                           "src": "4989:48:17",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_bool_$",
@@ -7409,7 +7409,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "5176:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -7450,7 +7450,7 @@
                               "nodeType": "IndexAccess",
                               "src": "5176:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -7754,7 +7754,7 @@
                           "referencedDeclaration": 4985,
                           "src": "5395:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -7795,7 +7795,7 @@
                         "nodeType": "IndexAccess",
                         "src": "5395:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -7806,7 +7806,7 @@
                       "lValueRequested": false,
                       "memberName": "tokenOfOwnerByIndex",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6389,
+                      "referencedDeclaration": 6456,
                       "src": "5395:55:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_view$_t_address_$_t_uint256_$returns$_t_uint256_$",
@@ -7881,7 +7881,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "5528:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -7922,7 +7922,7 @@
                               "nodeType": "IndexAccess",
                               "src": "5528:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -7933,7 +7933,7 @@
                             "lValueRequested": false,
                             "memberName": "authorizedBreederToReproduce",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 6471,
+                            "referencedDeclaration": 6538,
                             "src": "5528:64:17",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_address_$",
@@ -8156,7 +8156,7 @@
                           "referencedDeclaration": 4985,
                           "src": "5709:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -8197,7 +8197,7 @@
                         "nodeType": "IndexAccess",
                         "src": "5709:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -8208,7 +8208,7 @@
                       "lValueRequested": false,
                       "memberName": "reproductionPrice",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6455,
+                      "referencedDeclaration": 6522,
                       "src": "5709:53:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_view$_t_uint256_$returns$_t_uint256_$",
@@ -8953,7 +8953,7 @@
                           "referencedDeclaration": 4985,
                           "src": "6043:23:17",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -8994,7 +8994,7 @@
                         "nodeType": "IndexAccess",
                         "src": "6043:35:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -9005,7 +9005,7 @@
                       "lValueRequested": false,
                       "memberName": "declareAnimalWithParents",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 6432,
+                      "referencedDeclaration": 6499,
                       "src": "6043:60:17",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$_t_uint256_$_t_bool_$_t_string_memory_ptr_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -9363,7 +9363,7 @@
                               "referencedDeclaration": 4985,
                               "src": "6607:23:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -9404,7 +9404,7 @@
                             "nodeType": "IndexAccess",
                             "src": "6607:35:17",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                               "typeString": "contract IExerciceSolution"
                             }
                           },
@@ -9415,7 +9415,7 @@
                           "lValueRequested": false,
                           "memberName": "payForReproduction",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 6476,
+                          "referencedDeclaration": 6543,
                           "src": "6607:54:17",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_payable$_t_uint256_$returns$__$",
@@ -9520,7 +9520,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "6733:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -9561,7 +9561,7 @@
                               "nodeType": "IndexAccess",
                               "src": "6733:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -9572,7 +9572,7 @@
                             "lValueRequested": false,
                             "memberName": "authorizedBreederToReproduce",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 6471,
+                            "referencedDeclaration": 6538,
                             "src": "6733:64:17",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_address_$",
@@ -9848,7 +9848,7 @@
                                 "referencedDeclaration": 4985,
                                 "src": "6989:23:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -9889,7 +9889,7 @@
                               "nodeType": "IndexAccess",
                               "src": "6989:35:17",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -9900,7 +9900,7 @@
                             "lValueRequested": false,
                             "memberName": "authorizedBreederToReproduce",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 6471,
+                            "referencedDeclaration": 6538,
                             "src": "6989:64:17",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_address_$",
@@ -10512,7 +10512,7 @@
                                 "referencedDeclaration": 5662,
                                 "src": "7539:15:17",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               }
@@ -10520,7 +10520,7 @@
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               ],
@@ -10637,7 +10637,7 @@
                         "referencedDeclaration": 4985,
                         "src": "7610:23:17",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6477_$",
+                          "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$6544_$",
                           "typeString": "mapping(address => contract IExerciceSolution)"
                         }
                       },
@@ -10678,7 +10678,7 @@
                       "nodeType": "IndexAccess",
                       "src": "7610:35:17",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                        "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                         "typeString": "contract IExerciceSolution"
                       }
                     },
@@ -10693,13 +10693,13 @@
                       "referencedDeclaration": 5662,
                       "src": "7648:15:17",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                        "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                         "typeString": "contract IExerciceSolution"
                       }
                     },
                     "src": "7610:53:17",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                      "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                       "typeString": "contract IExerciceSolution"
                     }
                   },
@@ -10743,7 +10743,7 @@
                             "referencedDeclaration": 5662,
                             "src": "7690:15:17",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -10751,7 +10751,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -10859,7 +10859,7 @@
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                    "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                     "typeString": "contract IExerciceSolution"
                   },
                   "typeName": {
@@ -10867,10 +10867,10 @@
                     "id": 5661,
                     "name": "IExerciceSolution",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 6477,
+                    "referencedDeclaration": 6544,
                     "src": "7391:17:17",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                      "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                       "typeString": "contract IExerciceSolution"
                     }
                   },
@@ -13882,7 +13882,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 6478,
+          "SourceUnit": 6545,
           "absolutePath": "project:/contracts/IExerciceSolution.sol",
           "file": "./IExerciceSolution.sol",
           "scope": 5922,
@@ -14088,7 +14088,7 @@
                     "attributes": {
                       "contractScope": null,
                       "name": "IExerciceSolution",
-                      "referencedDeclaration": 6477,
+                      "referencedDeclaration": 6544,
                       "type": "contract IExerciceSolution"
                     },
                     "id": 4983,
@@ -16662,7 +16662,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "declareAnimalWithParents",
-                              "referencedDeclaration": 6432,
+                              "referencedDeclaration": 6499,
                               "type": "function (uint256,uint256,bool,string memory,uint256,uint256) external returns (uint256)"
                             },
                             "children": [
@@ -17549,7 +17549,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getAnimalCharacteristics",
-                              "referencedDeclaration": 6375,
+                              "referencedDeclaration": 6442,
                               "type": "function (uint256) external returns (string memory,bool,uint256,uint256)"
                             },
                             "children": [
@@ -18126,7 +18126,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getParents",
-                              "referencedDeclaration": 6441,
+                              "referencedDeclaration": 6508,
                               "type": "function (uint256) external returns (uint256,uint256)"
                             },
                             "children": [
@@ -18929,7 +18929,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokenOfOwnerByIndex",
-                              "referencedDeclaration": 6389,
+                              "referencedDeclaration": 6456,
                               "type": "function (address,uint256) view external returns (uint256)"
                             },
                             "children": [
@@ -19172,7 +19172,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "canReproduce",
-                                      "referencedDeclaration": 6448,
+                                      "referencedDeclaration": 6515,
                                       "type": "function (uint256) external returns (bool)"
                                     },
                                     "children": [
@@ -19378,7 +19378,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "reproductionPrice",
-                                      "referencedDeclaration": 6455,
+                                      "referencedDeclaration": 6522,
                                       "type": "function (uint256) view external returns (uint256)"
                                     },
                                     "children": [
@@ -19550,7 +19550,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "offerForReproduction",
-                              "referencedDeclaration": 6464,
+                              "referencedDeclaration": 6531,
                               "type": "function (uint256,uint256) external returns (uint256)"
                             },
                             "children": [
@@ -19731,7 +19731,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "canReproduce",
-                                  "referencedDeclaration": 6448,
+                                  "referencedDeclaration": 6515,
                                   "type": "function (uint256) external returns (bool)"
                                 },
                                 "children": [
@@ -19932,7 +19932,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "reproductionPrice",
-                                      "referencedDeclaration": 6455,
+                                      "referencedDeclaration": 6522,
                                       "type": "function (uint256) view external returns (uint256)"
                                     },
                                     "children": [
@@ -20136,7 +20136,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokenOfOwnerByIndex",
-                              "referencedDeclaration": 6389,
+                              "referencedDeclaration": 6456,
                               "type": "function (address,uint256) view external returns (uint256)"
                             },
                             "children": [
@@ -20354,7 +20354,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "offerForReproduction",
-                              "referencedDeclaration": 6464,
+                              "referencedDeclaration": 6531,
                               "type": "function (uint256,uint256) external returns (uint256)"
                             },
                             "children": [
@@ -21228,7 +21228,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "canReproduce",
-                                  "referencedDeclaration": 6448,
+                                  "referencedDeclaration": 6515,
                                   "type": "function (uint256) external returns (bool)"
                                 },
                                 "children": [
@@ -21680,7 +21680,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokenOfOwnerByIndex",
-                              "referencedDeclaration": 6389,
+                              "referencedDeclaration": 6456,
                               "type": "function (address,uint256) view external returns (uint256)"
                             },
                             "children": [
@@ -21926,7 +21926,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "authorizedBreederToReproduce",
-                                      "referencedDeclaration": 6471,
+                                      "referencedDeclaration": 6538,
                                       "type": "function (uint256) external returns (address)"
                                     },
                                     "children": [
@@ -22173,7 +22173,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "reproductionPrice",
-                              "referencedDeclaration": 6455,
+                              "referencedDeclaration": 6522,
                               "type": "function (uint256) view external returns (uint256)"
                             },
                             "children": [
@@ -22813,7 +22813,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "declareAnimalWithParents",
-                              "referencedDeclaration": 6432,
+                              "referencedDeclaration": 6499,
                               "type": "function (uint256,uint256,bool,string memory,uint256,uint256) external returns (uint256)"
                             },
                             "children": [
@@ -23468,7 +23468,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "payForReproduction",
-                                      "referencedDeclaration": 6476,
+                                      "referencedDeclaration": 6543,
                                       "type": "function (uint256) payable external"
                                     },
                                     "children": [
@@ -23671,7 +23671,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "authorizedBreederToReproduce",
-                                      "referencedDeclaration": 6471,
+                                      "referencedDeclaration": 6538,
                                       "type": "function (uint256) external returns (address)"
                                     },
                                     "children": [
@@ -24020,7 +24020,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "authorizedBreederToReproduce",
-                                      "referencedDeclaration": 6471,
+                                      "referencedDeclaration": 6538,
                                       "type": "function (uint256) external returns (address)"
                                     },
                                     "children": [
@@ -24625,7 +24625,7 @@
                         "attributes": {
                           "contractScope": null,
                           "name": "IExerciceSolution",
-                          "referencedDeclaration": 6477,
+                          "referencedDeclaration": 6544,
                           "type": "contract IExerciceSolution"
                         },
                         "id": 5661,
@@ -24749,7 +24749,7 @@
                                         "attributes": {
                                           "argumentTypes": [
                                             {
-                                              "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                              "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                               "typeString": "contract IExerciceSolution"
                                             }
                                           ],
@@ -24967,7 +24967,7 @@
                                     "attributes": {
                                       "argumentTypes": [
                                         {
-                                          "typeIdentifier": "t_contract$_IExerciceSolution_$6477",
+                                          "typeIdentifier": "t_contract$_IExerciceSolution_$6544",
                                           "typeString": "contract IExerciceSolution"
                                         }
                                       ],
@@ -28230,7 +28230,7 @@
     }
   },
   "schemaVersion": "3.4.11",
-  "updatedAt": "2022-11-26T20:37:13.853Z",
+  "updatedAt": "2022-11-30T12:59:32.769Z",
   "devdoc": {
     "methods": {}
   },

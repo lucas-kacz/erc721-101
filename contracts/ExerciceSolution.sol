@@ -15,6 +15,9 @@ contract ExerciceSolution is IExerciceSolution , ERC721
 
     mapping(uint => address) public idToOwner;
 
+    mapping(uint => uint) public priceOfAnimal;
+
+    mapping(uint => bool)public isForSale;
 
     struct Animal{
         uint sex;
@@ -49,9 +52,9 @@ contract ExerciceSolution is IExerciceSolution , ERC721
 
 	function declareAnimal(uint sex, uint legs, bool wings, string calldata name) external override returns (uint256){
         require(isAuthorized[msg.sender] == true);
-        _mint(msg.sender, 0);
         animals.push(Animal(sex, legs, wings, name));
         uint id = animals.length-1;
+        _mint(msg.sender, id);
         ownerToId[msg.sender] = id;
         idToOwner[id] = msg.sender;
         emit NewAnimal(sex, legs, wings, name);
@@ -83,19 +86,24 @@ contract ExerciceSolution is IExerciceSolution , ERC721
 
 	// Selling functions
 	function isAnimalForSale(uint animalNumber) external view override returns (bool){
-
+        return isForSale[animalNumber];
     }
 
 	function animalPrice(uint animalNumber) external view override returns (uint256){
-
+        return priceOfAnimal[animalNumber];
     }
 
 	function buyAnimal(uint animalNumber) external payable override{
-
+        require(isForSale[animalNumber] == true);
+        require(priceOfAnimal[animalNumber] == msg.value);
+        address owner = idToOwner[animalNumber];
+        _transfer(owner ,msg.sender, animalNumber);
     }
 
 	function offerForSale(uint animalNumber, uint price) external override{
-
+        require(msg.sender == idToOwner[animalNumber]);
+        priceOfAnimal[animalNumber] = price;
+        isForSale[animalNumber] = true;
     }
 	// Reproduction functions
 
